@@ -101,22 +101,22 @@ h1{
     color: hsl(224, 30%, 27%);
 }
 
-.red{
+.item1{
     color: hsl(0, 100%, 67%);
     background-color: hsla(0, 100%, 67%, 0.05) ;
 }
 
-.yellow{
+.item2{
     color: hsl(39, 100%, 56%);
     background-color: hsl(39, 100%, 56%, 0.05) ;
 }
 
-.green{
+.item3{
     color: hsl(166, 100%, 37%);
     background-color: hsl(166, 100%, 37%, 0.05);
 }
 
-.blue{
+.item4{
     color: hsl(234, 85%, 45%);
     background-color: hsl(234, 85%, 45%, 0.05);
 }
