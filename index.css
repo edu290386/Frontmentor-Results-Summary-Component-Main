@@ -87,6 +87,11 @@ h1{
     border-radius: 10px;
 }
 
+.flex{
+    display: flex;
+    align-items: center;
+}
+
 .detail div{
     color: hsla(224, 30%, 27%, 0.5);
     font-weight: bold;
@@ -115,8 +120,6 @@ h1{
     color: hsl(234, 85%, 45%);
     background-color: hsl(234, 85%, 45%, 0.05);
 }
-
-
 
 button{
     width: 100%;
